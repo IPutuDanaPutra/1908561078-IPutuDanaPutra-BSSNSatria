@@ -1,0 +1,4 @@
+Petunjuk Menginstall Program:
+
+- Program bisa dijalankan melalui Bluestack Emulator di Windows atau bisa di download dan di install menggunakan Handphone Android pengguna mengenal ini adalah aplikasi Android.
+- Setelah program jadi, program bisa dijalankan dengan baik.
